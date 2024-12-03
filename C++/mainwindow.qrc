@@ -1,0 +1,17 @@
+<RCC>
+    <qresource>
+        <file alias="flag_colored.png">Resources/flag_colored.png</file>
+	<file alias="mouse_selected.png">Resources/mouse_selected.png</file>
+	<file alias="flag_selected.png">Resources/flag_selected.png</file>
+	<file alias="zero.png">Resources/zero.png</file>
+	<file alias="one.png">Resources/one.png</file>
+	<file alias="two.png">Resources/two.png</file>
+	<file alias="three.png">Resources/three.png</file>
+	<file alias="four.png">Resources/four.png</file>
+	<file alias="five.png">Resources/five.png</file>
+	<file alias="six.png">Resources/six.png</file>
+	<file alias="seven.png">Resources/seven.png</file>
+	<file alias="eight.png">Resources/eight.png</file>
+	<file alias="mine.png">Resources/mine.png</file>
+    </qresource>
+</RCC>

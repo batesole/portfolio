@@ -1,0 +1,2 @@
+# C++
+The files included in this repository were all used in a final project for a course, where the GUI had to be created for a game of minesweeper.  Since the focus was on the GUI, the functional part of the game, largely included in gameboard.cpp, was provided to us, and only a few adjustments were made to it.  The instructions files provide information about how to play, and include some programming related design choices.
